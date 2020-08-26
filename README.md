@@ -1,5 +1,5 @@
 # VMMX
-This a project is focused on initially covering a midi file into programming positions destined for the MMX to play.
+This a project is focused on initially converting a midi file into programming positions destined for the MMX to play.
 
 I sugggest we have two branches 
 
