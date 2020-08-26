@@ -1,4 +1,4 @@
-# VMMX
+# MIDI2MMX
 This a project is focused on initially converting a midi file into programming positions destined for the MMX to play.
 
 I sugggest we have two branches 
